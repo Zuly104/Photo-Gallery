@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald|Rambla|Staatliches&display=swap');
-
+a:active  {text-decoration: none}
+a:link    {text-decoration: none}
+a:visited {text-decoration: none}
 body{
     margin: 0;
     padding: 0;
