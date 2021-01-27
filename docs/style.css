@@ -6,6 +6,13 @@ body{
     margin: 0;
     padding: 0;
 }
+.row m-0{
+   width: 421px;
+   height: 480px;
+   margin: 0 auoto;
+   background: black;
+   backgroend-size: 220px 254px;
+}
 
 :root{
     --color-black: #000000;
